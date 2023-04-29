@@ -1,0 +1,15 @@
+{
+  "name": "cod-ie-ga3-220501093-aa3-ev02",
+  "version": "1.0.0",
+  "description": "Evidencia Sena",
+  "main": "area_perimetro.js",
+  "scripts": {
+    "test": "area"
+  },
+  "keywords": [
+    "evidencia",
+    "Sena"
+  ],
+  "author": "Lina Grajales",
+  "license": "ISC"
+}
